@@ -1,6 +1,6 @@
 <cas:serviceResponse xmlns:cas="http://www.yale.edu/tp/cas">
    <cas:authenticationSuccess>
-       <cas:user></cas:user>
+       <cas:user>4082119</cas:user>
        <cas:proxyGrantingTicket>ticket</cas:proxyGrantingTicket>
    </cas:authenticationSuccess>
 </cas:serviceResponse>
